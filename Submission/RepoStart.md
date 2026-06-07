@@ -2,35 +2,29 @@
 
 ## Participant Details
 
-**Full Name:**
-Zarrar Peshimam
+**Full Name:** Zarrar Peshimam
 
-**GitHub Username:**
-ZarrarPeshimam
+**GitHub Username:** ZarrarPeshimam
 
-**Team Name:**
-Agentic 007
+**Team Name:** Agentic 007
 
-**College/University:**
-Sardar Patel Institute of Technology
+**College/University:** Sardar Patel Institute of Technology
 
 ---
 
 ## Project Details
 
-**Project Title:**
-RepoStart - Developer Onboarding Tool
-
----
+**Project Title:** RepoStart - Developer Onboarding Tool
 
 **Project Description:**
+
 RepoStart is a VS Code extension that streamlines developer onboarding for open-source and collaborative projects.
 
 It reduces the friction new contributors face when joining unfamiliar codebases by intelligently analyzing repository structure, installing dependencies across multi-folder projects, generating required environment configurations, and launching applications directly inside VS Code.
 
 Instead of manually reading setup instructions, configuring environments, and running multiple commands, developers can go from:
 
-i.e. git clone → project running with a single click.
+i.e. git clone -> project running with a single click.
 
 RepoStart improves onboarding for:
 
@@ -40,8 +34,6 @@ RepoStart improves onboarding for:
 
 It provides a real-time dashboard with logs, setup timeline, and service status inside VS Code.
 
----
-
 **Tech Stack Used:**
 
 * TypeScript
@@ -49,20 +41,11 @@ It provides a real-time dashboard with logs, setup timeline, and service status 
 * Node.js
 * npm
 
----
+**GitHub Repository Link:** https://github.com/ZarrarPeshimam/RepoStart
 
-**GitHub Repository Link:**
-https://github.com/ZarrarPeshimam/RepoStart
+**Live Demo Link:** [Download Portal](https://repostart.vercel.app)
 
----
-
-**Live Demo Link:**
-[Download Portal](https://repostart.vercel.app)
-
----
-
-**Presentation / Demo Video Link:**
-[Drive Link](https://drive.google.com/file/d/1uJYpNaMuMrk1iem9_CbuqKZyx80L5M1q/view?usp=sharing)
+**Presentation / Demo Video Link:** [Drive Link](https://drive.google.com/file/d/1uJYpNaMuMrk1iem9_CbuqKZyx80L5M1q/view?usp=sharing)
 
 ---
 
