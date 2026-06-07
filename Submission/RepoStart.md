@@ -1,4 +1,4 @@
-# 🚀 Open Source Hackathon 2026 Project Submission
+# Open Source Hackathon 2026 Project Submission
 
 ## Participant Details
 
